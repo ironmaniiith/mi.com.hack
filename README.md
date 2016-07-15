@@ -7,8 +7,10 @@ Hope it will help you get a __free__ Mi Mobile and many other cool __free__ stuf
 Happy Hacking.
 
 
-Demo:
+**Demo**:
+
 [![Pair 2 Win Bot](http://img.youtube.com/vi/a7SKmzOlthw/0.jpg)](http://www.youtube.com/watch?v=a7SKmzOlthw "Pair 2 Win Bot")
 
+Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
 **Author** : [**Ironmaniiith**](https://github.com/ironmaniiith)
 &lt;The above script is free to use, anyone can use it according to his/her own wish. Enjoy...&gt;
