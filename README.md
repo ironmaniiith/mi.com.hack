@@ -13,12 +13,13 @@ Happy Hacking.
 
 [![Pair 2 Win Bot](http://img.youtube.com/vi/uyOmX0g6jMg/0.jpg)](http://www.youtube.com/watch?v=uyOmX0g6jMg "Pair 2 Win Bot")
 
-Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
 
 **Workaround**
 
 [![Pair 2 Win Workaround](http://img.youtube.com/vi/N1l2QJGQHEo/0.jpg)](http://www.youtube.com/watch?v=N1l2QJGQHEo "Pair 2 Win Workaround")
 
+
+Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
 
 **Author** : [**Ironmaniiith**](https://github.com/ironmaniiith)
 
