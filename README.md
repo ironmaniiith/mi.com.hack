@@ -15,6 +15,10 @@ Happy Hacking.
 
 Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
 
+**Workaround**
+[![Pair 2 Win Workaround](http://img.youtube.com/vi/N1l2QJGQHEo/0.jpg)](http://www.youtube.com/watch?v=N1l2QJGQHEo "Pair 2 Win Workaround")
+
+
 **Author** : [**Ironmaniiith**](https://github.com/ironmaniiith)
 
 &lt;The above script is free to use, anyone can use it according to his/her own wish. Enjoy...&gt;
