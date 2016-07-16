@@ -11,7 +11,7 @@ Happy Hacking.
 
 **Demo**:
 
-[![Pair 2 Win Bot](http://img.youtube.com/vi/a7SKmzOlthw/0.jpg)](http://www.youtube.com/watch?v=a7SKmzOlthw "Pair 2 Win Bot")
+[![Pair 2 Win Bot](http://img.youtube.com/vi/uyOmX0g6jMg/0.jpg)](http://www.youtube.com/watch?v=uyOmX0g6jMg "Pair 2 Win Bot")
 
 Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
 
