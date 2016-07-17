@@ -25,4 +25,6 @@ Also there's one more easier way to hack this game, but why don't you try it you
 
 The above script is free to use, anyone can use it according to his/her own wish. Make sure you give credits ;-)
 
+If you want to share this script or publicize it, make sure you ask for proper permission before doing so.
+
 Enjoy...
