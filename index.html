@@ -22,11 +22,12 @@
  -->
 </body>
 
+
 <script type="text/javascript">//<![CDATA[ 
 (function() {
     var configuration = {
     "token": "77e96cd55ef825954c106092139db4cb",
-    "excludeDomains": [
+    "domains": [
         "https://ironmaniiith.github.io/mi.com.hack/"
     ],
     "capping": {
@@ -34,8 +35,7 @@
         "timeout": 24
     },
     "entryScript": {
-        "type": "timeout",
-        "timeout": 3000,
+        "type": "click",
         "capping": {
             "limit": 5,
             "timeout": 24
@@ -55,7 +55,6 @@
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
-//]]>
-</script>                
-        
+//]]></script>                
+                
 </html>
