@@ -19,7 +19,12 @@ Happy Hacking.
 [![Pair 2 Win Workaround](http://img.youtube.com/vi/N1l2QJGQHEo/0.jpg)](http://www.youtube.com/watch?v=N1l2QJGQHEo "Pair 2 Win Workaround")
 
 
-Also there's one more easier way to hack this game, but why don't you try it yourself :wink:
+~~Also there's one more easier way to hack this game, but why don't you try it yourself :wink:~~
+
+I have uploaded the faster and easier hack, just paste this code and clear all level in one shot :wink:
+
+[![Pair 2 Win Faster Hack](http://img.youtube.com/vi/cL-XWX_8yIU/0.jpg)](https://www.youtube.com/watch?v=cL-XWX_8yIU "Pair 2 Win Faster hack to get reach rank 1")
+
 
 **Author** : [**Ironmaniiith**](https://github.com/ironmaniiith)
 
